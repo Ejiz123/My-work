@@ -50,5 +50,18 @@
         ],
         "category": "Mechanical Engineer",
         "upload_date": "2025-05-06T17:10:11.164553"
+    },
+    {
+        "email": "ahsan@gmail.com",
+        "filename": "Ahsan_RESUME.pdf",
+        "skills": [
+            "AutoCAD",
+            "STAAD Pro",
+            "Site Supervision",
+            "MS Excel",
+            "MS Project"
+        ],
+        "category": "Civil Engineer",
+        "upload_date": "2025-05-18T09:20:40.637323"
     }
 ]

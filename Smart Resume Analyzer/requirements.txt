@@ -1,0 +1,1 @@
+Flask flask-session pandas scikit-learn numpy nltk PyPDF2
